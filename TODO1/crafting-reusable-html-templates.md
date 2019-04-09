@@ -200,7 +200,7 @@ button.addEventListener('click', event => alert(event));
 
 请查阅笔记[以脚本模板来编写对话框](https://codepen.io/calebdwilliams/pen/JzjLyQ/)，来自 [CodePen](https://codepen.io) 的 Caleb Williams ([@calebdwilliams](https://codepen.io/calebdwilliams))。
 
-#### Article Series:
+#### 系列文章:
 
 1.  [Web Components 简介](https://juejin.im/post/5c9a3cce5188252d9b3771ad)
 2.  [编写可以复用的 HTML 模板（**本文**）](https://github.com/xitu/gold-miner/blob/master/TODO1/crafting-reusable-html-templates.md)
